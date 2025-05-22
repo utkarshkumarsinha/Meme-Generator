@@ -3,6 +3,7 @@
 A clean, responsive, and interactive Meme Generator web app that fetches random wholesome memes from an external API and displays them dynamically with the meme title and author. Built using vanilla HTML, CSS, and JavaScript — no frameworks or libraries required!
 
 
+
 🚀 Features
 
  •  🎲 One-click meme generation using a public meme API
@@ -18,6 +19,7 @@ A clean, responsive, and interactive Meme Generator web app that fetches random 
  •  💻 Print-friendly styles and accessibility improvements
 
  •  🔒 No dependencies, fully client-side
+
 
 
 🛠️ Technologies Used
