@@ -5,25 +5,25 @@ A clean, responsive, and interactive Meme Generator web app that fetches random 
 
 🚀 Features
 
- 🎲 One-click meme generation using a public meme API
+ •  🎲 One-click meme generation using a public meme API
 
- 🖼️ Dynamically displays meme image, title, and author
+ •  🖼️ Dynamically displays meme image, title, and author
 
- 🌈 Responsive UI with modern design and smooth transitions
+ •  🌈 Responsive UI with modern design and smooth transitions
 
- 🌙 Dark mode support based on system preferences
+ •  🌙 Dark mode support based on system preferences
 
- ⚙️ Loading animations for better user experience
+ •  ⚙️ Loading animations for better user experience
 
- 💻 Print-friendly styles and accessibility improvements
+ •  💻 Print-friendly styles and accessibility improvements
 
- 🔒 No dependencies, fully client-side
+ •  🔒 No dependencies, fully client-side
 
 
 🛠️ Technologies Used
 
- HTML – Semantic structure
+ •  HTML – Semantic structure
 
- CSS – Custom properties, transitions, responsiveness, dark mode
+ •  CSS – Custom properties, transitions, responsiveness, dark mode
 
- JavaScript – DOM manipulation, Fetch API, async rendering
+ •  JavaScript – DOM manipulation, Fetch API, async rendering
