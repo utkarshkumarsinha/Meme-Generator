@@ -28,4 +28,4 @@ A clean, responsive, and interactive Meme Generator web app that fetches random 
 
  •  CSS – Custom properties, transitions, responsiveness, dark mode
 
- •  JavaScript – DOM manipulation, Fetch API, async rendering
+ •  JavaScript – DOM manipulation, Fetch API, async rendering.
